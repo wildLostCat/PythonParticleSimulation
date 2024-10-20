@@ -1,0 +1,8 @@
+Velocities will be broken down to 2 components:
+tangential | normal
+
+the tangential component will remain unchanged.
+
+make unit nermol & tangent vectors
+
+project Velocity vectors onto unit vectors

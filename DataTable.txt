@@ -1,0 +1,7 @@
+Particle Count: {}
+Red: {}
+Blue: {}
+max_Vel: {}
+min_Vel: {}
+max_r: {}
+min_r: {}
